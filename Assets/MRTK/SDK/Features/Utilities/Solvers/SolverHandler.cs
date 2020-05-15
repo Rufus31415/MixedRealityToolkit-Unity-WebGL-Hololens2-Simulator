@@ -338,8 +338,8 @@ namespace Microsoft.MixedReality.Toolkit.Utilities.Solvers
         /// </summary>
         public void RefreshTrackedObject()
         {
-            DetachFromCurrentTrackedObject();
-            AttachToNewTrackedObject();
+            //DetachFromCurrentTrackedObject();
+            //AttachToNewTrackedObject();
         }
 
         /// <summary>
